@@ -6,13 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tchevier&label=Profile%20views&color=0e75b6&style=flat" alt="jenniferehala" /> </p>
 
 
-- 🔭 I’m currently working on **AWS Could Certifications**
+- 🔭 I’m currently working on **A PickUpApp for a School**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Angular and Typescript**
 
 - 👯 I’m looking to collaborate on **ANYTHING!**
-
-- 🤝 I’m looking for help with **Guidance on certifications that will make me more employable!**
 
 - 👨‍💻 My project page is available at [https://tchevier.github.io/Portfolio/](https://tchevier.github.io/Portfolio/)
 
