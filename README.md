@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **ANYTHING!**
 
-- 👨‍💻 My project page is available at [(https://www.tristianchevier.com/)]([https://www.tristianchevier.com/))
+- 👨‍💻 My project page is available at https://www.tristianchevier.com/
 
 - 💬 Ask me about **react, javascript, C#, and python**
 
